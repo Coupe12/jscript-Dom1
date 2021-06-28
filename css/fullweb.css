@@ -1,0 +1,143 @@
+*
+{
+	font-family:'Poppins', sans-serif;
+}
+
+.bg-darkblue
+{
+	background-color: #332253;
+	font-size: 11px;
+	padding: 4px;
+}
+a.dark
+{
+	color: #332253;
+	text-decoration: none;
+	padding: 10px;
+	font-size: 13px;
+	font-weight: bold;
+}
+a.dark:hover
+{
+	color: #33a6fa;
+}
+.padding
+{
+	padding: 7px;
+}
+.carousel-inner img
+{
+	height: 90%;
+	width: 99.5%;
+}
+.carousel-caption
+{
+	position: absolute;
+}
+.header
+{
+	color: #444;
+	margin-bottom: 0px;
+}
+.tapevr
+{
+	margin-top: 5px;
+	width: 70px;
+	border: solid red 2px;
+}
+.paragraph-edit
+{
+	color: #ccc;
+	text-align: center;
+	font-size: 14px;
+	padding: 2px;
+}
+.image-align
+{
+	height: 90px;
+}
+a.button 
+{
+	padding: 6px;
+	border: 1px black solid;
+	text-decoration: none;
+}
+.padding
+{
+	padding: 6px;
+}
+.bg-brightblue
+{
+	background-color: #4466dd;
+	padding: 20px;
+	text-align: center;
+}
+.button-brightblue
+{
+	background-color: inherit;
+	border: white 1px solid;
+	color: white;
+	padding: 5px;
+}
+.button-brightblue:hover
+{
+	background-color: #e94844;
+}
+.text-small
+{
+	font-size: 16px;
+	color: #ccc;
+}
+.text-smaller
+{
+	font-size: 14px;
+	color: #ccc;
+}
+.white-beam
+{
+	width: 100%;
+	border: #aaffaa solid 1px;
+
+}
+.footer-div
+{	
+	height: 150px;
+	background-color: #222;
+}
+a
+{
+	text-decoration: none;
+}
+a:hover
+{
+	text-decoration: none;
+}
+span a
+{
+	color: #caf;
+}
+span a:hover
+{
+	color: #bbb;
+}
+.bgeditabt
+{
+	background-color: rgba(150,200,150);
+	background-image: url(images/boss.png);
+	background-attachment: fixed;
+}
+input.submit:hover
+{
+	background-color: #9999ff;
+
+}
+.form-postbtn:hover
+{
+	background-color: #6699dd;
+	color: #555;
+
+}
+.signupfooter
+{
+	background-color: #fff;
+}
